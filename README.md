@@ -21,3 +21,8 @@ https://github.com/fajarjulyana/arduino-robot-counting-AI-speech-recognition/blo
 3. Setelah selesai menulis program, upload program tersebut ke dalam Arduino Uno menggunakan kabel USB.
 
 4. Tes robot dengan memberikan perintah suara untuk melakukan operasi matematika dan melihat hasilnya pada speaker.
+## Batasan
+Dalam contoh di atas, robot dapat mengenali perintah suara dari pengguna untuk melakukan operasi matematika, seperti "tambah", "kurang", "kali", dan "bagi". Setelah robot mengenali perintah tersebut, maka robot akan melakukan operasi matematika yang sesuai dan menampilkan hasilnya pada speaker.
+
+Namun, perlu diingat bahwa speech recognition pada Arduino memiliki keterbatasan dan kemampuan yang terbatas. Oleh karena itu, untuk membuat speech recognition yang lebih baik dan akurat, Anda dapat menggunakan platform kecerdasan buatan yang lebih canggih seperti Google Cloud Speech-to-Text atau Amazon Transcribe.
+
